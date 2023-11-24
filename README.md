@@ -1,5 +1,5 @@
 # Hello there!👋
-I'm Minji. I'm a computer information systems graduate from Orange Coast College, CA, and I am passionate about front-end and back-end development.
+I'm Minji. I'm a computer information systems graduate from Orange Coast College, CA, and I am passionate about web application development.
 
 <h3 align="center">:globe_with_meridians:Languages and Tools:wrench:</h3>
 
