@@ -15,7 +15,8 @@ I'm Minji. I'm a computer information systems graduate from Orange Coast College
 <div align="center">
 <h4 align="center">Back-end</h4>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/jsp-E64415?style=for-the-badge&logo=jsp&logoColor=black">
+    <img src="https://img.shields.io/badge/jsp-E64415?style=for-the-badge&logo=jsp&logoColor=white">
+    <img src="https://img.shields.io/badge/jpa-baae84?style=for-the-badge&logo=jpa&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/mybatis-BE3939?style=for-the-badge&logo=mybatis&logoColor=white">
