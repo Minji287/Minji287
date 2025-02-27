@@ -36,5 +36,5 @@ I'm Minji. I'm a computer information systems graduate from Orange Coast College
 </div>
 &nbsp;
 
-📫 How to reach me at dpa357@gmail.com
+📫 How to reach me at minjik287@gmail.com
 
